@@ -44,7 +44,7 @@
   }
   
   #main p {
-    color: #ffffff;
+    color: #3d0003;
   }
   
   #main {
@@ -71,7 +71,7 @@
   }
   
   #links {
-    color: #53544d;
+    color: #3d0003;
     position: absolute;
     transform: translate(-50%, 50%);
     bottom: 20px;
@@ -173,7 +173,7 @@
   }
   
   .letter {
-    color: #959fb4;
+    color: #3d0003;
     background: linear-gradient(to right, #aa8dff, #aa8dff 50%, #959fb4 50%);
     overflow: hidden;     
     background-clip: text;
