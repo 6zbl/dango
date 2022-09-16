@@ -9,7 +9,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         }
       },
       "color": {
-        "value": "#3d0003"
+        "value": "#000050"
       },
       "shape": {
         "type": "circle",
